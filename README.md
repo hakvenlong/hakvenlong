@@ -4,7 +4,7 @@ A passionate self-taught full stack developer and content creator from [Your Cou
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning [Your Tech Stack, e.g., React, JavaScript, and TypeScript].
 - 💬 Ask me about anything [here](#).
-- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at [hvenlong@gmail.com](mailto:hvenlong@gmail.com)
 
 ---
 ## 🚀 Tools & Technologies
