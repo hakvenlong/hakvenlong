@@ -2,7 +2,7 @@
 A passionate self-taught full stack developer and content creator from [Your Country].
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning [Your Tech Stack, e.g., React, JavaScript, and TypeScript].
+- 🌱 I’m currently learning [React, JavaScript, and TypeScript , Mongodb , django].
 - 💬 Ask me about anything [here](#).
 - 📫 Reach me at [hvenlong@gmail.com](mailto:hvenlong@gmail.com)
 
