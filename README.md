@@ -1,5 +1,5 @@
 # Hi there , I'm Hak Venlong
-A passionate self-taught full stack developer and content creator from [Your Country].
+A passionate self-taught Web developer and content editor from Phnom Penh (Cambodia).
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning [React, JavaScript, and TypeScript , Mongodb , django].
