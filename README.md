@@ -2,7 +2,7 @@
 A passionate self-taught Web developer and content editor from Phnom Penh (Cambodia).
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning [React, JavaScript, and TypeScript , Mongodb , django].
+- 🌱 I’m currently learning [React, JavaScript, and TypeScript , Mongodb , flask , Postgresql].
 - 💬 Ask me about anything [here](#).
 - 📫 Reach me at [hvenlong@gmail.com](mailto:hvenlong@gmail.com)
 
